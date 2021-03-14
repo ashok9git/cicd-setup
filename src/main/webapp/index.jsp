@@ -17,8 +17,8 @@
 </tr>
 
 </table>
-<p> The current EC2 Dashboard is being replaced by a new EC2 Dashboard.
-We are replacing this Dashboard with a new Dashboard, which we will continue to improve based on your feedback.
+<p><font color="orange"> The current EC2 Dashboard is being replaced by a new EC2 Dashboard.
+We are replacing this Dashboard with a new Dashboard, which we will continue to improve based on your feedback.</font>
 </p>
 </body>
 </html>
