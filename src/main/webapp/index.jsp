@@ -1,7 +1,7 @@
 <html>
 <body>
-<h2>Hello Hyderabad folks!</h2>
-<p><font color="blue"> This is Maven class for DevOps folks</font></p>
+<h2>Hello Hyderabad!</h2>
+<p><font color="blue">This is Maven class for DevOps folks</font></p>
 <table border="5" bordercolor="#ff0000">
 <tr>
 <td>Cell A</td>
